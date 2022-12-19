@@ -6,6 +6,7 @@
 
 <p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=eduardobran&show_icons=true&theme=highcontrast" alt="eduardobrandao stats"/>
+<img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardobran&theme=chartreuse-dark&hide_border=true" alt="eduardobrandao stats"/>
 <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobran&langs_count=10&layout=compact&theme=highcontrast" alt="eduardobrandao stats"/>
 </p>
 
